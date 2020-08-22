@@ -1,0 +1,15 @@
+{
+  "name": "deposit-service",
+  "version": "1.0.0",
+  "description": "Creating a deposit file each day",
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "aws-sdk": "^2.649.0",
+    "jest": "^25.2.4",
+    "serverless-bundle": "^1.9.1",
+    "serverless-dotenv-plugin": "^2.4.2",
+    "serverless-offline": "^5.12.1"
+  }
+}
